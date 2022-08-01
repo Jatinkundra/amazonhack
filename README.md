@@ -13,6 +13,7 @@ Crypto tags will help in detecting counterfeit products, tracking product as it 
 
 
 # Reliability Score Prediction:
-  1.1 Fake reviews removal: Naive bayes model was used, on the amazon reviews dataset with accuracy of 80%.
-  1.2 Sentiment Analysis: Support vector classifier model was used with accuracy of 94.5%
-  1.3 Predicts the score by combining the both models.
+  <li>Fake reviews removal: Naive bayes model was used, on the amazon reviews dataset with accuracy of 80%.</li>
+  <li>1.2 Sentiment Analysis: Support vector classifier model was used with accuracy of 94.5%</li>
+  <li>1.3 Predicts the score by combining the both models.</li>
+  
